@@ -45,3 +45,5 @@ Question 11:
 Question 12: public LogAnalyzer( String filename)
             reader = new LogfileReader(filename);
 
+PART 3 
+
